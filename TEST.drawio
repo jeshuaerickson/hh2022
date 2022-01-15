@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T13:48:33.605Z" agent="5.0 (X11)" etag="euQ7E6covgGsw67AJHGv" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T13:54:33.666Z" agent="5.0 (X11)" etag="uVjj5on7v3p8shqeTZXU" version="16.2.7" type="github">
   <diagram id="wTbBzhJaKdRrf2wAgvQ3" name="Page-1">
     <mxGraphModel dx="1420" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kx392N2r4N_sGY8FT0pf-1" value="Enter Text" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx392N2r4N_sGY8FT0pf-2" value="Enter Text" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="110" height="110" as="geometry" />
+        <mxCell id="Kx392N2r4N_sGY8FT0pf-1" value="friendzone.htb" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
